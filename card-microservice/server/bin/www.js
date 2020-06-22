@@ -4,9 +4,11 @@
  * Module dependencies.
  */
 
-var app = require('../app');
-var debug = require('debug')('your-project-name:server');
-var http = require('http');
+import app from '../app';
+import debugLib from 'debug';
+import http from 'http';
+
+const debug = debugLib('card-microservice:server');
 
 /**
  * Get port from environment and store in Express.
