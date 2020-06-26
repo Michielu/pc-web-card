@@ -1,0 +1,113 @@
+{
+    "001": {
+        "name": "American Express",
+        "cards": {
+            "ae01": "Cash Magnet Card",
+            "ae02": "American Express Gold Card",
+            "ae03": "The Platinum Card",
+            "ae04": "American Express Green Card",
+            "ae05": "Blue Cash Everyday Card",
+            "ae06": "Blue Cash Preferred Card",
+            "ae07": "Amex Everyday Preferred Credit Card",
+            "ae08": "Delta SkyMiles Gold American Express Card"
+        }
+    },
+    "002": {
+        "name": "Bank of America",
+        "cards": {
+            "boc01": "BOA Cash Card",
+            "boc02": "BOA Luxury Card"
+        }
+    },
+    "003": {
+        "name": "Barclays",
+        "cards": {
+            "bc01": "Barclays Cash Card",
+            "bc02": "Barclays Luxury Card"
+        }
+    },
+    "004": {
+        "name": "Capital One",
+        "cards": {
+            "co01": "CapitalOne Cash Card",
+            "co02": "CapitalOne Luxury Card"
+        }
+    },
+    "005": {
+        "name": "Chase",
+        "cards": {
+            "ch01": "Chase Cash Card",
+            "ch02": "chase Luxury Card"
+        }
+    },
+    "006": {
+        "name": "Citibank",
+        "cards": {
+            "ci01": "Citi Cash Card",
+            "ci02": "Citi Luxury Card"
+        }
+    },
+    "007": {
+        "name": "Discover",
+        "cards": {
+            "dc01": "Discover Cash Card",
+            "dc02": "Discover Luxury Card"
+        }
+    },
+    "008": {
+        "name": "Mastercard",
+        "cards": {
+            "mc01": "Mastercard Cash Card",
+            "mc02": "Mastercard Luxury Card"
+        }
+    },
+    "009": {
+        "name": "Navy Federal Credit Union",
+        "cards": {
+            "nf01": "NavyF Cash Card",
+            "nf02": "NavyF Luxury Card"
+        }
+    },
+    "010": {
+        "name": "Pentagon Federal Credit Union",
+        "cards": {
+            "pf01": "PentagonFed Cash Card",
+            "pf02": "PentagonFed Luxury Card"
+        }
+    },
+    "011": {
+        "name": "PNC",
+        "cards": {
+            "pnc01": "PNC Cash Card",
+            "pnc02": "PNC Luxury Card"
+        }
+    },
+    "012": {
+        "name": "USAA",
+        "cards": {
+            "usaa01": "USAA Cash Card",
+            "usaa02": "USAA Luxury Card"
+        }
+    },
+    "013": {
+        "name": "U.S. Bank",
+        "cards": {
+            "usb01": "US Bank Cash Card",
+            "usb02": "US Bank Luxury Card"
+        }
+    },
+    "014": {
+        "name": "Visa",
+        "cards": {
+            "visa01": "Visa Cash Card",
+            "visa02": "Visa Luxury Card"
+        }
+    },
+    "015": {
+        "name": "Wells Fargo",
+        "cards": {
+            "wf01": "Wells Cash Card",
+            "wf02": "Wells Luxury Card"
+        }
+    }
+}

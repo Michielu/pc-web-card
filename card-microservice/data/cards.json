@@ -1,0 +1,632 @@
+{
+    "ae01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "ae02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "boc01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "boc02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "bc01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "bc02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "co01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "co02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "ch01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "ch02": {
+        "staples": {
+            "gas": "2",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "ci01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "ci02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "dc01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "dc02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "mc01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "mc02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "nf01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "nf02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "pf01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "pf02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "pnc01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "pnc02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "usaa01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "usaa02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "usb01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "usb02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "visa01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "visa02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "wf01": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    },
+    "wf02": {
+        "staples": {
+            "gas": "1",
+            "grocery": "1",
+            "fast food": "1",
+            "resturant": "1",
+            "home improvement": "1",
+            "travel": "1"
+        },
+        "specialties": {
+            "amazon": "2",
+            "cell phone": "2",
+            "home utilities": "2",
+            "drug stores": "2",
+            "airlines": "2",
+            "ride share": "2",
+            "dept stores": "2",
+            "wholesale clubs": "1"
+        },
+        "default": "1"
+    }
+}
