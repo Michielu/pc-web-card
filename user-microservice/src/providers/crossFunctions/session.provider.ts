@@ -1,10 +1,14 @@
-//Manage session
 import { Injectable } from '@nestjs/common';
-import { LocalSession } from '../interfaces/session';
+import { LocalSession } from '../../interfaces/session';
 
 @Injectable()
 export class SessionProvider {
-    private userSession: LocalSession = null;
+    private userSession: LocalSession = {
+        userId: "",
+        username: "",
+        isLoggedIn: false,
+        cards: []
+    };
 
     setUserId(userId: string) {
         this.userSession.userId = userId;
