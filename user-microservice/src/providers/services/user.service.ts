@@ -8,8 +8,9 @@ import { User } from '../../entity/user.entity';
 export class UserService {
     constructor(
         private session: SessionProvider,
-        @InjectRepository(User)
-        private usersRepository: Repository<User>,) {
+        // @InjectRepository(User)
+        // private usersRepository: Repository<User>
+    ) {
 
     }
 
